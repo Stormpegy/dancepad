@@ -52,6 +52,6 @@ You can see the screw placement here.
 
 
 
->will add bar area sizing / cuts at a later date
-
-[Panels](../tree/master/panels)
+>will add bar area sizing / cuts at a later date  
+ 
+[Panels](https://github.com/Stormpegy/dancepad/tree/master/panels)  

@@ -21,5 +21,6 @@ I traced the arrow panels on the sheets of mdf/ply and cut them oversized, to be
 ## Arrow panels  
 
 
-### 3D Printed corner brackets
-[Electronics](../tree/master/electronics)
+### 3D Printed corner brackets  
+
+[Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  

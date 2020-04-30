@@ -30,10 +30,10 @@ For the sake of not having an overly cluttered main page I'm going to separate t
 
 >^ maybe forget that and have full parts list here as well?
 
-[Frame](../tree/master/frame)   
-[Panels](../tree/master/panels)  
-[Electronics](../tree/master/electronics)  
-[Bar](../tree/master/bar)  
+[Frame](https://github.com/Stormpegy/dancepad/tree/master/frame)   
+[Panels](https://github.com/Stormpegy/dancepad/tree/master/panels)  
+[Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  
+[Bar](https://github.com/Stormpegy/dancepad/tree/master/bar)  
 
 [full completed images go]
 

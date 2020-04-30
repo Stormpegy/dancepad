@@ -8,7 +8,6 @@
 >make more velostat sensors and take pics to write up a full tutorial
 >show the extensions
 
-The wiring of the pad is quite simple, 4 velostat sensors all connected up to an Arduino Leonardo R3
+The wiring of the pad is quite simple, 4 velostat sensors all connected up to an Arduino Leonardo R3  
 
-
-[Bar](../tree/master/bar)
+[Bar](https://github.com/Stormpegy/dancepad/tree/master/bar)  
