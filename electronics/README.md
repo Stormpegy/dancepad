@@ -11,4 +11,4 @@
 The wiring of the pad is quite simple, 4 velostat sensors all connected up to an Arduino Leonardo R3
 
 
-[Bar](../bar)
+[Bar](../tree/master/bar)

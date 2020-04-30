@@ -54,4 +54,4 @@ You can see the screw placement here.
 
 >will add bar area sizing / cuts at a later date
 
-[Panels](../panels)
+[Panels](../tree/master/panels)

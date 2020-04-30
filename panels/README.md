@@ -22,4 +22,4 @@ I traced the arrow panels on the sheets of mdf/ply and cut them oversized, to be
 
 
 ### 3D Printed corner brackets
-[Electronics](../electronics)
+[Electronics](../tree/master/electronics)

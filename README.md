@@ -30,10 +30,10 @@ For the sake of not having an overly cluttered main page I'm going to separate t
 
 >^ maybe forget that and have full parts list here as well?
 
-[Frame](../frame)   
-[Panels](../panels)  
-[Electronics](../electronics)  
-[Bar](../bar)  
+[Frame](../tree/master/frame)   
+[Panels](../tree/master/panels)  
+[Electronics](../tree/master/electronics)  
+[Bar](../tree/master/bar)  
 
 [full completed images go]
 
