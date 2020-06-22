@@ -1,50 +1,68 @@
-# Dancepad
-## notes
-> going to make an effort on formatting in this guide  
- 
+# Dancepad  
 
-## Overview
-Open source 4 panel dance pad for DDR/ITG.
+## Overview  
+4 panel dance pad for DDR/ITG.  
 I've been planning this project since 2017/2018 and never got anywhere until the covid pandemic of 2019/2020 hit, I'm glad to have finally made progress and gotten myself a playable dance pad.  
 
-As with all my rhythm game related projects, huge thanks to the cons&stuff discord community, so much knowledge on any sort of homebuilt rhythm game controller you could ever want.  
-https://consandstuff.github.io/
+Before this project started I was passing ITG 13s and I've now pushed up to 14s and nearing the 15 range, it's certainly capable!  
 
-Key features and goals of this project,
-- velostat sensors
-    - cheap
+As with all my rhythm game related projects, huge thanks to the cons&stuff discord community, so much knowledge on any sort of homebuilt rhythm game controller you could ever want.  
+https://consandstuff.github.io/  
+
+Key features and goals of this project,  
+- velostat sensors  
+    - cheap  
     - adjustable sensitivity without the need to lift arrow panels  
 - bracketless  
-    - no need to source and countersink steel corner brackets
-    - fancy and modern
-- relatively simple and cheap build
-    - timber frame construction
-    - 3d printed parts
+    - no need to source and countersink steel corner brackets  
+    - fancy and modern  
+- kinda cheap build?  
+    - timber frame construction  
+    - 3d printed parts  
 
 The relatively simple timber frame with plywood base of this build along with using cheaper galvanised steel rather than stainless keeps the cost fairly low, the frame itself totaled $120aud.  
 The panels are polycarbonate I got cut to size and drilled + countersunk them myself for a total of $80aud.  
-The electronics for this dance pad are quite simple, with just a $10aud Arduino Leonardo clone from ebay, a sheet of velostat, some wires and a few basic connectors.
->no bar yet because can't travel to pick it up
+The electronics for this dance pad are quite simple, with just a $10aud Arduino Leonardo clone from ebay, a sheet of velostat, some wires and a few basic connectors.  
+Full cost table is WIP  
 
-For the sake of not having an overly cluttered main page I'm going to separate this guide in to sections with images and a more detailed cost and design breakdown in each page.  
-
->^ maybe forget that and have full parts list here as well?
+This build log is split in to 4 sections.  
 
 [Frame](https://github.com/Stormpegy/dancepad/tree/master/frame)   
 [Panels](https://github.com/Stormpegy/dancepad/tree/master/panels)  
 [Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  
 [Bar](https://github.com/Stormpegy/dancepad/tree/master/bar)  
 
-[full completed images go]
+>full completed images go here one day  
+
+Current state of the pad.  
+![gamer](/img/IMG_20200619_214830.jpg)
+
+## Pad to do list  
+- Chamfer all edges of the arrow panels  
+- Obtain a bar and construct a mount for it  
+- Disassemble the entire pad and paint the frame  
+- Order arrow panel decals  
+- Order v5 led strips for underneath the arrow panels  
+- Construct an arcade thickness edging around the pad  
+
+## Guide to do list  
+- Proof read everything  
+- Ensure formatting is consistent  
+- Ensure punctuation even exists  
+- Pricing table  
 
 ## Changelog  
+v0.2  
+big update  
+images moved to their own folder within each section to further reduce clutter  
+panels readme.md started and nearly finished    
+3d printed part links added, both .stl and .step  
+made some more notes on what needs to be added to the frame page  
+
 v0.1   
-made all relevant folders
-moved images to relevant folders
-inital readme.md drafts
-
-## To do list  
-
+made all relevant folders  
+moved images to relevant folders  
+inital readme.md drafts  
 
 ## Contact  
 Created by https://github.com/Stormpegy  
