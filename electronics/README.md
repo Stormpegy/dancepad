@@ -17,12 +17,12 @@ An Arduino leonardo r3 was chosen due to the easily mountable standard form fact
 Other recommended boards are the Arduino micro, Sparkfun pro micro and teensy 2.0.  
 
 I believe there is also code being developed for the teensy 4.0 which uses an ARM cortex controller.  
-Purchase what is readily available and suits you, my personal preference is a chinese leonardo clone.  
+Purchase what is readily available and suits you, my personal preference is a chinese Leonardo clone.  
 
 ![Basic Schematic](/electronics/schematic/kicad_Mcd6kEUGT8.png)  
 (this will be updated along with the addition of LEDs at a later date)  
 
-I also opted 
+I also opted <- what?
 
 ## Sensor construction  
 >where are those sensor pics at

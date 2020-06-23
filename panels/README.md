@@ -73,9 +73,10 @@ The corner brackets are designed to have an M6 nut glued in and then screwed in 
 (The outer corner hole was left in from the first version of this bracket, I found its use to not be required)
 
 Though also consider,  
-> LINK - dj505's PIU C frame clones  
-> LINK - Mdigibou bracketless C frames  
-> LINK - Official PIU LX C frames  
+- [dj505's PIU C frame clones](https://www.thingiverse.com/thing:3973422)  
+- [Mdigibou universal bracketless frames](https://www.thingiverse.com/thing:4389101)
+- [Official Andamiro PIU C frames](https://www.arcadespareparts.com/andamiro_spare_parts/andamiro_parts_aput0ass011_switch_frame_c.html)  
+(these are likely available from a number of stores, I've linked ASP as they're a known reputable seller)  
 
 ![Corner bracket installed](/panels/img/IMG_20200419_134322.jpg)  
 Corner bracket installed with M6 nut glued in and some foam tape applied for a little dampening.  
@@ -98,7 +99,7 @@ Personally I attatch my sensors with a small loop of duct tape, it's firm enough
 > sensor mount pics  
 
 This design could also work well for FSR's, if wanting to use traditional arcade sensors I recommend checking out-  
-> who has these models again?
+> Awaiting SpaghettiSnail to host their arcade sensor channel design  
 
 Ready for the electronics now!  
 [Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  
