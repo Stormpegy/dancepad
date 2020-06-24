@@ -22,7 +22,33 @@ The wiring of the pad is quite simple, wired no different to if you were using a
 >azlepad.ino link  
 
 ## Sensor construction  
->pull sensor pics from phone and blur cards  
+>Each velostat sensor requires  
+
+| QTY | Part | 
+|-----|--------|
+| 1 | Standard 8.5cm x 5.4cm plastic card |  
+| 2 | 9-10cm strips of copper tape |  
+| 1 | 7.5cm x 1cm strip of velostat |  
+| 2 | 10cm-15cm~ lengths of 22-26 gauge copper wire |  
+| 1 | 2 pin male header 2.54mm spacing |  
+
+To construct these sensors start by cutting your (preferably old/used) bank/arcade/loyalty card in half lengthways, and then laying a strip of copper tape along the middle, I've used 5mm wide copper tape but thicker is absolutely fine.  
+You then will need to solder 1 of your lengths of wire on to the far end. 
+
+Repeat so you have 2 identical pieces.  
+
+![Sensor pic 2](/electronics/img/sensor2.jpg)  
+You should end up with 2 pieces like this.  
+
+![Sensor pic 3](/electronics/img/sensor3.jpg)  
+Then lay your piece of velostat over the copper tape like this, ensure a few mm of overhang to prevent the copper tape on both halves being able to directly short.  
+(try overlap the masking tape and velostat only by a few mm and avoid the masking tape overlapping the copper tape)  
+
+![Sensor pic 1](/electronics/img/sensor1.jpg)  
+Then place the second half of the sensor over the first half copper tape side down, ensuring a mm or two of velostat is exposed again just to reduce the chance of the copper tape just shorting directly to the other half and bypassing the velostat.  
+Then lightly join both halves together with some more masking tape.  
+
+Solder on 2 standard 2.54mm headers (or a connector of your choosing) to the other end of each wire and your sensor is done.  
 
 ## Wiring extensions  
 
