@@ -69,7 +69,7 @@ WIP, yet to order decals, this part of the guide will remain unfinished for a wh
 [Corner bracket .step](https://github.com/Stormpegy/dancepad/tree/master/panels/3d-files/corner-block-v9.step)  
 [Corner bracket .stl](https://github.com/Stormpegy/dancepad/tree/master/panels/3d-files/corner-block-v9.stl)  
 
-The corner brackets are designed to have an M6 nut glued in and then screwed in to the frame, with 2x G8 x 25mm wood screws, a total of 16 brackets needed for a single pad.  
+The corner brackets are designed to have an M6 nut glued in and then screwed in to the frame, with 2x 8G x 25mm wood screws, a total of 16 brackets needed for a single pad.  
 (The outer corner hole was left in from the first version of this bracket, I found its use to not be required)
 
 Though also consider,  
@@ -92,7 +92,7 @@ Sensor mount design is still a WIP, refining it and sorting print settings.
 
 Sensor mounts are currently a work in progress and so is this section.  
 
-Sensor mounts designed to hold plastic card based velostat sensors, they're 9cm x 2cm and screw down with the same G8 x 25mm wood screws.  
+Sensor mounts designed to hold plastic card based velostat sensors, they're 9cm x 2cm and screw down with the same 8G x 25mm wood screws.  
 
 Personally I attatch my sensors with a small loop of duct tape, it's firm enough to hold them but still easily removable.  
 

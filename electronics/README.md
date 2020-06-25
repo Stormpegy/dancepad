@@ -24,8 +24,8 @@ The wiring of the pad is quite simple, wired no different to if you were using a
 ## Sensor construction  
 >Each velostat sensor requires  
 
-| QTY | Part | 
-|-----|--------|
+| QTY | Part |  
+|-----|--------|  
 | 1 | Standard 8.5cm x 5.4cm plastic card |  
 | 2 | 9-10cm strips of copper tape |  
 | 1 | 7.5cm x 1cm strip of velostat |  
