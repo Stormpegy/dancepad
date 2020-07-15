@@ -13,13 +13,8 @@ Purchase what is readily available and suits you, my personal preference is a ch
 (this will be updated along with the addition of LEDs at a later date)  
 
 The wiring of the pad is quite simple, wired no different to if you were using arcade sensors, a common ground on all and a dedicated pin for each on the Arduino, in this case analog pins 1-4.  
->maybe find a schematic in stamnation of an fsr/velo setup using a voltage divider?  
-
->something about the ghetto pcb to join the gnd of all pins
-
->code stuff  
-
->azlepad.ino link  
+>maybe find a schematic in staminanation of an fsr/velo setup using a voltage divider?  
+>code stuff needs to be added
 
 ## Sensor construction  
 >Each velostat sensor requires  

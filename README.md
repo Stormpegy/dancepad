@@ -1,13 +1,12 @@
 # Dancepad  
+# note  
+I'm releasing this build log early as i feel it's at a stage where it will be helpful to some people even with the missing information, no point keeping it hidden while i continue to slack on finishing it  
 
 ## Overview  
 4 panel dance pad for DDR/ITG.  
 I've been planning this project since 2017/2018 and never got anywhere until the covid pandemic of 2019/2020 hit, I'm glad to have finally made progress and gotten myself a playable dance pad.  
 
-Before this project started I was passing ITG 13s and I've now pushed up to 14s and nearing the 15 range, it's certainly capable!  
-
-As with all my rhythm game related projects, huge thanks to the cons&stuff discord community, so much knowledge on any sort of homebuilt rhythm game controller you could ever want.  
-https://consandstuff.github.io/  
+Before this project started I was passing ITG 13s and I've now pushed up to 14s and nearing the 15 range, it's certainly capable!    
 
 Key features and goals of this project,  
 - velostat sensors  
@@ -15,9 +14,8 @@ Key features and goals of this project,
     - adjustable sensitivity without the need to lift arrow panels  
 - bracketless  
     - no need to source and countersink steel corner brackets  
-    - fancy and modern  
-- kinda cheap build?  
-    - timber frame construction  
+- affordable build 
+    - basic timber frame construction  
     - 3d printed parts  
 
 The relatively simple timber frame with plywood base of this build along with using cheaper galvanised steel rather than stainless keeps the cost fairly low, the frame itself totaled $120aud.  
@@ -46,6 +44,7 @@ Current state of the pad.
 - Construct an arcade thickness edging around the pad  
 
 ## Guide to do list  
+- Finish electronics page
 - Proof read everything  
 - Ensure formatting is consistent  
 - Ensure punctuation even exists  
@@ -64,7 +63,9 @@ made all relevant folders
 moved images to relevant folders  
 inital readme.md drafts  
 
-## Contact  
+## Other  
+As with all my rhythm game related projects, huge thanks to the cons&stuff discord community, so much knowledge on any sort of homebuilt rhythm game controller you could ever want.  
+https://consandstuff.github.io/  
+
 Created by https://github.com/Stormpegy  
 Feel free to contact me in the cons&stuff discord server under the same username.  
-https://consandstuff.github.io/
