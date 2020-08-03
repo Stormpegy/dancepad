@@ -74,3 +74,6 @@ https://consandstuff.github.io/
 
 Created by https://github.com/Stormpegy  
 Feel free to contact me in the cons&stuff discord server under the same username.  
+
+### License
+Users are free to copy, modify, remix, redistribute this build log/guide however they like, feel free to modify in a way that suits you and even build pads based on this build log to sell if you wish, the only requirement is that I am credited and a link to my github is kept somewhere easily visible.
