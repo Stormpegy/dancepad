@@ -28,7 +28,6 @@ Drilled holes in all the inner pieces for cable routing using a 22mm spade bit.
 And a 25mm hole drilled at 140mm in from the outside edge, along one of the 838mm peices to mount the neutrik NAUSB-W connector.  
 
 ![Frame build](/frame/img/IMG_20200329_211316.jpg)  
->blur or crop this one  
 
 The frame itself was screwed and glued together using 10G x 100mm countersunk timber screws while taking care to ensure it was well aligned and square.  
 >mention something to remind people to predrill for wood screws, and countersink  
