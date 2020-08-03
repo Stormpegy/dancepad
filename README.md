@@ -1,6 +1,8 @@
 # Dancepad  
-# note  
+## note  
 I'm releasing this build log early as i feel it's at a stage where it will be helpful to some people even with the missing information, no point keeping it hidden while i continue to slack on finishing it  
+
+03-08-2020, lets see how long till the log actually gets finished
 
 ## Overview  
 4 panel dance pad for DDR/ITG.  
@@ -13,7 +15,8 @@ Key features and goals of this project,
     - cheap  
     - adjustable sensitivity without the need to lift arrow panels  
 - bracketless  
-    - no need to source and countersink steel corner brackets  
+    - less parts
+    - no need to source steel corner brackets from an arcade supplier  
 - affordable build 
     - basic timber frame construction  
     - 3d printed parts  
@@ -23,12 +26,14 @@ The panels are polycarbonate I got cut to size and drilled + countersunk them my
 The electronics for this dance pad are quite simple, with just a $10aud Arduino Leonardo clone from ebay, a sheet of velostat, some wires and a few basic connectors.  
 Full cost table is WIP  
 
-This build log is split in to 4 sections.  
+### This build log is split in to 4 sections.  
 
 [Frame](https://github.com/Stormpegy/dancepad/tree/master/frame)   
 [Panels](https://github.com/Stormpegy/dancepad/tree/master/panels)  
 [Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  
 [Bar](https://github.com/Stormpegy/dancepad/tree/master/bar)  
+
+[Unfinished price breakdown](https://github.com/Stormpegy/dancepad/tree/master/Pricing.md)  
 
 >full completed images go here one day  
 

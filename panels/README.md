@@ -96,10 +96,12 @@ Sensor mounts designed to hold plastic card based velostat sensors, they're 9cm 
 
 Personally I attatch my sensors with a small loop of duct tape, it's firm enough to hold them but still easily removable.  
 
-> sensor mount pics  
+![Sensor mount v1](/panels/img/IMG_20200625_121441.jpg) 
 
 This design could also work well for FSR's, if wanting to use traditional arcade sensors I recommend checking out-  
-> Awaiting SpaghettiSnail to host their arcade sensor channel design  
+- [BlueMoonMystic's X2 raw thrills sensor channel](https://www.thingiverse.com/thing:4547247)
+- [Mdigibou universal bracketless frames](https://www.thingiverse.com/thing:4389101)
+- SpaghettiSnail's sensor channel, found in the C&S discord #dancepad
 
 Ready for the electronics now!  
 [Electronics](https://github.com/Stormpegy/dancepad/tree/master/electronics)  
